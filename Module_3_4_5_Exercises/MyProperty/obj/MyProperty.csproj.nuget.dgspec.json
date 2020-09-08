@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MOC20483C\\Module_3_4_5_Exercises\\MyProperty\\MyProperty.csproj": {}
+    "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\MyProperty\\MyProperty.csproj": {}
   },
   "projects": {
-    "E:\\MOC20483C\\Module_3_4_5_Exercises\\DoomsdayPreppers\\DoomsdayPreppers.csproj": {
+    "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\DoomsdayPreppers\\DoomsdayPreppers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5_Exercises\\DoomsdayPreppers\\DoomsdayPreppers.csproj",
+        "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\DoomsdayPreppers\\DoomsdayPreppers.csproj",
         "projectName": "DoomsdayPreppers",
-        "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\DoomsdayPreppers\\DoomsdayPreppers.csproj",
+        "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\DoomsdayPreppers\\DoomsdayPreppers.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\DoomsdayPreppers\\obj\\",
+        "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\DoomsdayPreppers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
-                "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
+              "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
+                "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "E:\\MOC20483C\\Module_3_4_5_Exercises\\Heras\\Heras.csproj": {
+    "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Heras\\Heras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Heras\\Heras.csproj",
+        "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Heras\\Heras.csproj",
         "projectName": "Heras",
-        "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Heras\\Heras.csproj",
+        "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Heras\\Heras.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Heras\\obj\\",
+        "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Heras\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -92,8 +92,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
-                "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
+              "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
+                "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "E:\\MOC20483C\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj": {
+    "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj",
+        "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj",
         "projectName": "Infrac",
-        "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj",
+        "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Infrac\\obj\\",
+        "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Infrac\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -154,8 +154,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
-                "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
+              "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
+                "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
               }
             }
           }
@@ -190,14 +190,14 @@
         }
       }
     },
-    "E:\\MOC20483C\\Module_3_4_5_Exercises\\MyProperty\\MyProperty.csproj": {
+    "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\MyProperty\\MyProperty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5_Exercises\\MyProperty\\MyProperty.csproj",
+        "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\MyProperty\\MyProperty.csproj",
         "projectName": "MyProperty",
-        "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\MyProperty\\MyProperty.csproj",
+        "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\MyProperty\\MyProperty.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\MyProperty\\obj\\",
+        "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\MyProperty\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -216,20 +216,20 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\MOC20483C\\Module_3_4_5_Exercises\\DoomsdayPreppers\\DoomsdayPreppers.csproj": {
-                "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\DoomsdayPreppers\\DoomsdayPreppers.csproj"
+              "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\DoomsdayPreppers\\DoomsdayPreppers.csproj": {
+                "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\DoomsdayPreppers\\DoomsdayPreppers.csproj"
               },
-              "E:\\MOC20483C\\Module_3_4_5_Exercises\\Heras\\Heras.csproj": {
-                "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Heras\\Heras.csproj"
+              "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Heras\\Heras.csproj": {
+                "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Heras\\Heras.csproj"
               },
-              "E:\\MOC20483C\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj": {
-                "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj"
+              "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj": {
+                "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj"
               },
-              "E:\\MOC20483C\\Module_3_4_5_Exercises\\Philips\\Philips.csproj": {
-                "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Philips\\Philips.csproj"
+              "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Philips\\Philips.csproj": {
+                "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Philips\\Philips.csproj"
               },
-              "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
-                "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
+              "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
+                "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
               }
             }
           }
@@ -261,14 +261,14 @@
         }
       }
     },
-    "E:\\MOC20483C\\Module_3_4_5_Exercises\\Philips\\Philips.csproj": {
+    "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Philips\\Philips.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Philips\\Philips.csproj",
+        "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Philips\\Philips.csproj",
         "projectName": "Philips",
-        "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Philips\\Philips.csproj",
+        "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Philips\\Philips.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Philips\\obj\\",
+        "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Philips\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -287,8 +287,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
-                "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
+              "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
+                "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
               }
             }
           }
@@ -323,14 +323,14 @@
         }
       }
     },
-    "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
+    "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj",
+        "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj",
         "projectName": "Standards",
-        "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj",
+        "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\obj\\",
+        "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

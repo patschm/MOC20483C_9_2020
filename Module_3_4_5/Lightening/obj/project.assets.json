@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5\\Lightening\\Lightening.csproj",
+      "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5\\Lightening\\Lightening.csproj",
       "projectName": "Lightening",
-      "projectPath": "E:\\MOC20483C\\Module_3_4_5\\Lightening\\Lightening.csproj",
+      "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5\\Lightening\\Lightening.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "E:\\MOC20483C\\Module_3_4_5\\Lightening\\obj\\",
+      "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5\\Lightening\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

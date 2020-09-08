@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5\\Objects\\Objects.csproj",
+      "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5\\Objects\\Objects.csproj",
       "projectName": "Objects",
-      "projectPath": "E:\\MOC20483C\\Module_3_4_5\\Objects\\Objects.csproj",
+      "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5\\Objects\\Objects.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "E:\\MOC20483C\\Module_3_4_5\\Objects\\obj\\",
+      "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5\\Objects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

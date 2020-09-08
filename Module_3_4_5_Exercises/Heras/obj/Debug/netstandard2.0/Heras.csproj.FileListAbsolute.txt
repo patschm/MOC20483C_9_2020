@@ -10,3 +10,15 @@ E:\MOC20483C\Module_3_4_5_Exercises\Heras\obj\Debug\netstandard2.0\Heras.pdb
 E:\MOC20483C\Module_3_4_5_Exercises\Heras\obj\Debug\netstandard2.0\Heras.csproj.CopyComplete
 E:\MOC20483C\Module_3_4_5_Exercises\Heras\bin\Debug\netstandard2.0\Standards.dll
 E:\MOC20483C\Module_3_4_5_Exercises\Heras\bin\Debug\netstandard2.0\Standards.pdb
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\bin\Debug\netstandard2.0\Heras.deps.json
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\bin\Debug\netstandard2.0\Heras.dll
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\bin\Debug\netstandard2.0\Heras.pdb
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\bin\Debug\netstandard2.0\Standards.dll
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\bin\Debug\netstandard2.0\Standards.pdb
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\obj\Debug\netstandard2.0\Heras.csprojAssemblyReference.cache
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\obj\Debug\netstandard2.0\Heras.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\obj\Debug\netstandard2.0\Heras.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\obj\Debug\netstandard2.0\Heras.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\obj\Debug\netstandard2.0\Heras.csproj.CopyComplete
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\obj\Debug\netstandard2.0\Heras.dll
+E:\MOC20483C_9_2020\Module_3_4_5_Exercises\Heras\obj\Debug\netstandard2.0\Heras.pdb

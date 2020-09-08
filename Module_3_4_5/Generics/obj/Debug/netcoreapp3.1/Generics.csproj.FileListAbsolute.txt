@@ -1,0 +1,12 @@
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+E:\MOC20483C_9_2020\Module_3_4_5\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache

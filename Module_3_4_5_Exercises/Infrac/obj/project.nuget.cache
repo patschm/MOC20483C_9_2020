@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tFFoJlP7XiNrjMGaI1H5qUCTYFQRZEO+kxWbUVzsLigMpeyniD/UASZTVvE1qOmgCDVkAE8lUVOx7aMucmBPjQ==",
+  "dgSpecHash": "pKb4E/dVWlrCSTglBXTZSjY/Iunjiuphm3Jy8H76mHJW8BOnYuAnZ0dy20IRlXS0qQOxT8cWLftCaw6Lmox8Ug==",
   "success": true,
-  "projectFilePath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj",
+  "projectFilePath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Infrac\\Infrac.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -16,9 +16,19 @@ namespace MyProperty
             Trap trap = new Trap();
 
             // Some connections
-            detector.Connect(gate);
-            detector.Connect(trap);
-            detector.Connect(tl);
+            //detector.Connect(gate);
+            //detector.Connect(trap);
+            //detector.Connect(tl);
+
+            //detector.Connect(gate.Open);
+            //detector.Connect(trap.Open);
+            //detector.Connect(tl.On);
+
+            detector.Actions += gate.Open;
+            detector.Actions += trap.Open;
+            detector.Actions += tl.On;
+
+
             detector.Detect();
 
         }

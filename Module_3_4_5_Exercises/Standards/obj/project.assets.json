@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj",
+      "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj",
       "projectName": "Standards",
-      "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj",
+      "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\obj\\",
+      "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

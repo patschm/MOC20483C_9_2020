@@ -1,0 +1,13 @@
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\bin\Debug\netcoreapp3.1\FunctionPong.exe
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\bin\Debug\netcoreapp3.1\FunctionPong.deps.json
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\bin\Debug\netcoreapp3.1\FunctionPong.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\bin\Debug\netcoreapp3.1\FunctionPong.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\bin\Debug\netcoreapp3.1\FunctionPong.dll
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\bin\Debug\netcoreapp3.1\FunctionPong.pdb
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\obj\Debug\netcoreapp3.1\FunctionPong.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\obj\Debug\netcoreapp3.1\FunctionPong.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\obj\Debug\netcoreapp3.1\FunctionPong.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\obj\Debug\netcoreapp3.1\FunctionPong.dll
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\obj\Debug\netcoreapp3.1\FunctionPong.pdb
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\obj\Debug\netcoreapp3.1\FunctionPong.genruntimeconfig.cache
+E:\MOC20483C_9_2020\Module_3_4_5\FunctionPong\obj\Debug\netcoreapp3.1\FunctionPong.csprojAssemblyReference.cache

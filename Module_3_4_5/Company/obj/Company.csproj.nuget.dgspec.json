@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MOC20483C\\Module_3_4_5\\Company\\Company.csproj": {}
+    "E:\\MOC20483C_9_2020\\Module_3_4_5\\Company\\Company.csproj": {}
   },
   "projects": {
-    "E:\\MOC20483C\\Module_3_4_5\\Company\\Company.csproj": {
+    "E:\\MOC20483C_9_2020\\Module_3_4_5\\Company\\Company.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5\\Company\\Company.csproj",
+        "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5\\Company\\Company.csproj",
         "projectName": "Company",
-        "projectPath": "E:\\MOC20483C\\Module_3_4_5\\Company\\Company.csproj",
+        "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5\\Company\\Company.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "E:\\MOC20483C\\Module_3_4_5\\Company\\obj\\",
+        "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5\\Company\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,12 @@
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\bin\Debug\netcoreapp3.1\Structures.exe
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\bin\Debug\netcoreapp3.1\Structures.deps.json
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\bin\Debug\netcoreapp3.1\Structures.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\bin\Debug\netcoreapp3.1\Structures.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\bin\Debug\netcoreapp3.1\Structures.dll
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\bin\Debug\netcoreapp3.1\Structures.pdb
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\obj\Debug\netcoreapp3.1\Structures.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\obj\Debug\netcoreapp3.1\Structures.dll
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\obj\Debug\netcoreapp3.1\Structures.pdb
+E:\MOC20483C_9_2020\Module_3_4_5\Structures\obj\Debug\netcoreapp3.1\Structures.genruntimeconfig.cache

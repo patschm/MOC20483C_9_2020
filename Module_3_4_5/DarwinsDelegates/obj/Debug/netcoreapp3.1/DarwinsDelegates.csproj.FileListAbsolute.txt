@@ -1,0 +1,12 @@
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\bin\Debug\netcoreapp3.1\DarwinsDelegates.exe
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\bin\Debug\netcoreapp3.1\DarwinsDelegates.deps.json
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\bin\Debug\netcoreapp3.1\DarwinsDelegates.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\bin\Debug\netcoreapp3.1\DarwinsDelegates.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\bin\Debug\netcoreapp3.1\DarwinsDelegates.dll
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\bin\Debug\netcoreapp3.1\DarwinsDelegates.pdb
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\obj\Debug\netcoreapp3.1\DarwinsDelegates.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\obj\Debug\netcoreapp3.1\DarwinsDelegates.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\obj\Debug\netcoreapp3.1\DarwinsDelegates.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\obj\Debug\netcoreapp3.1\DarwinsDelegates.dll
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\obj\Debug\netcoreapp3.1\DarwinsDelegates.pdb
+E:\MOC20483C_9_2020\Module_3_4_5\DarwinsDelegates\obj\Debug\netcoreapp3.1\DarwinsDelegates.genruntimeconfig.cache

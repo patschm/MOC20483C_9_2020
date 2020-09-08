@@ -202,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Philips\\Philips.csproj",
+      "projectUniqueName": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Philips\\Philips.csproj",
       "projectName": "Philips",
-      "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Philips\\Philips.csproj",
+      "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Philips\\Philips.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Philips\\obj\\",
+      "outputPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Philips\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -225,8 +225,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
-              "projectPath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
+            "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj": {
+              "projectPath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Standards\\Standards.csproj"
             }
           }
         }

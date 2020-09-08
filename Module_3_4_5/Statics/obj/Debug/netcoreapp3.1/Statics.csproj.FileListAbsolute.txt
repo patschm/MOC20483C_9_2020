@@ -1,0 +1,12 @@
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\bin\Debug\netcoreapp3.1\Statics.exe
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\bin\Debug\netcoreapp3.1\Statics.deps.json
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\bin\Debug\netcoreapp3.1\Statics.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\bin\Debug\netcoreapp3.1\Statics.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\bin\Debug\netcoreapp3.1\Statics.dll
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\bin\Debug\netcoreapp3.1\Statics.pdb
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\obj\Debug\netcoreapp3.1\Statics.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\obj\Debug\netcoreapp3.1\Statics.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\obj\Debug\netcoreapp3.1\Statics.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\obj\Debug\netcoreapp3.1\Statics.dll
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\obj\Debug\netcoreapp3.1\Statics.pdb
+E:\MOC20483C_9_2020\Module_3_4_5\Statics\obj\Debug\netcoreapp3.1\Statics.genruntimeconfig.cache

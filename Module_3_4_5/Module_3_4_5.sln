@@ -3,13 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{7E300EF3-BEE4-4045-B64D-15D8BBE0C1C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enums", "Enums\Enums.csproj", "{7E300EF3-BEE4-4045-B64D-15D8BBE0C1C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects", "Objects\Objects.csproj", "{D0C6958E-BBD3-415C-A71C-4273B9E38874}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Objects", "Objects\Objects.csproj", "{D0C6958E-BBD3-415C-A71C-4273B9E38874}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lightening", "Lightening\Lightening.csproj", "{54074EDB-9900-4B83-AE1D-1AEE20C7A35B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lightening", "Lightening\Lightening.csproj", "{54074EDB-9900-4B83-AE1D-1AEE20C7A35B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company", "Company\Company.csproj", "{46C5E746-306D-4A10-843B-6334ECCCC8CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company", "Company\Company.csproj", "{46C5E746-306D-4A10-843B-6334ECCCC8CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionPong", "FunctionPong\FunctionPong.csproj", "{94FE48C7-4ABF-4F61-B6B9-FA802BF74286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarwinsDelegates", "DarwinsDelegates\DarwinsDelegates.csproj", "{12FB3A90-4AAD-4260-83BD-1A4D3B725F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statics", "Statics\Statics.csproj", "{6D40C330-995F-4EB3-A50D-492D72A1C0F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{5D2A98B6-B4F4-4482-8669-D2BFEA59D0A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structures", "Structures\Structures.csproj", "{59B9CF6B-C728-406F-9C92-2FEC56AAD985}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{46C5E746-306D-4A10-843B-6334ECCCC8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46C5E746-306D-4A10-843B-6334ECCCC8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46C5E746-306D-4A10-843B-6334ECCCC8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FE48C7-4ABF-4F61-B6B9-FA802BF74286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FE48C7-4ABF-4F61-B6B9-FA802BF74286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FE48C7-4ABF-4F61-B6B9-FA802BF74286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FE48C7-4ABF-4F61-B6B9-FA802BF74286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FB3A90-4AAD-4260-83BD-1A4D3B725F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FB3A90-4AAD-4260-83BD-1A4D3B725F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FB3A90-4AAD-4260-83BD-1A4D3B725F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FB3A90-4AAD-4260-83BD-1A4D3B725F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D40C330-995F-4EB3-A50D-492D72A1C0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D40C330-995F-4EB3-A50D-492D72A1C0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D40C330-995F-4EB3-A50D-492D72A1C0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D40C330-995F-4EB3-A50D-492D72A1C0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D2A98B6-B4F4-4482-8669-D2BFEA59D0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2A98B6-B4F4-4482-8669-D2BFEA59D0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2A98B6-B4F4-4482-8669-D2BFEA59D0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2A98B6-B4F4-4482-8669-D2BFEA59D0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B9CF6B-C728-406F-9C92-2FEC56AAD985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B9CF6B-C728-406F-9C92-2FEC56AAD985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B9CF6B-C728-406F-9C92-2FEC56AAD985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B9CF6B-C728-406F-9C92-2FEC56AAD985}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

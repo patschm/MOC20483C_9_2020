@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vECDuOMDSPXPFkKHvUA09clo94/2bW5CprWB0bRCouI1MvBmHM9Qz2Iohf38ETayZebWjbdLaGeWS4WA8yQBXA==",
+  "dgSpecHash": "pvxNXi3aRbemWtGNFGFjxPfRV20DSM268JrauBoFmIdn/MZ+N+Hkyd9AzDN+GQ1lTc/DDLUkLwWQny9sl8E3LQ==",
   "success": true,
-  "projectFilePath": "E:\\MOC20483C\\Module_3_4_5_Exercises\\Heras\\Heras.csproj",
+  "projectFilePath": "E:\\MOC20483C_9_2020\\Module_3_4_5_Exercises\\Heras\\Heras.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
