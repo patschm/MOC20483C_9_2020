@@ -1,0 +1,13 @@
+E:\MOC20483C\Module_3_4_5\Objects\bin\Debug\netcoreapp3.1\Objects.exe
+E:\MOC20483C\Module_3_4_5\Objects\bin\Debug\netcoreapp3.1\Objects.deps.json
+E:\MOC20483C\Module_3_4_5\Objects\bin\Debug\netcoreapp3.1\Objects.runtimeconfig.json
+E:\MOC20483C\Module_3_4_5\Objects\bin\Debug\netcoreapp3.1\Objects.runtimeconfig.dev.json
+E:\MOC20483C\Module_3_4_5\Objects\bin\Debug\netcoreapp3.1\Objects.dll
+E:\MOC20483C\Module_3_4_5\Objects\bin\Debug\netcoreapp3.1\Objects.pdb
+E:\MOC20483C\Module_3_4_5\Objects\obj\Debug\netcoreapp3.1\Objects.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_3_4_5\Objects\obj\Debug\netcoreapp3.1\Objects.AssemblyInfo.cs
+E:\MOC20483C\Module_3_4_5\Objects\obj\Debug\netcoreapp3.1\Objects.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_3_4_5\Objects\obj\Debug\netcoreapp3.1\Objects.dll
+E:\MOC20483C\Module_3_4_5\Objects\obj\Debug\netcoreapp3.1\Objects.pdb
+E:\MOC20483C\Module_3_4_5\Objects\obj\Debug\netcoreapp3.1\Objects.genruntimeconfig.cache
+E:\MOC20483C\Module_3_4_5\Objects\obj\Debug\netcoreapp3.1\Objects.csprojAssemblyReference.cache

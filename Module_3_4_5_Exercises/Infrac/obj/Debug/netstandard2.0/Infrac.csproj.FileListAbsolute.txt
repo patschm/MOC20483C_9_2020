@@ -1,0 +1,12 @@
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\bin\Debug\netstandard2.0\Infrac.deps.json
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\bin\Debug\netstandard2.0\Infrac.dll
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\bin\Debug\netstandard2.0\Infrac.pdb
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\obj\Debug\netstandard2.0\Infrac.csprojAssemblyReference.cache
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\obj\Debug\netstandard2.0\Infrac.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\obj\Debug\netstandard2.0\Infrac.AssemblyInfo.cs
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\obj\Debug\netstandard2.0\Infrac.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\obj\Debug\netstandard2.0\Infrac.dll
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\obj\Debug\netstandard2.0\Infrac.pdb
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\bin\Debug\netstandard2.0\Standards.dll
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\bin\Debug\netstandard2.0\Standards.pdb
+E:\MOC20483C\Module_3_4_5_Exercises\Infrac\obj\Debug\netstandard2.0\Infrac.csproj.CopyComplete

@@ -1,0 +1,16 @@
+E:\MOC20483C\Module_2\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+E:\MOC20483C\Module_2\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+E:\MOC20483C\Module_2\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+E:\MOC20483C\Module_2\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+E:\MOC20483C\Module_2\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+E:\MOC20483C\Module_2\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+E:\MOC20483C\Module_2\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csprojAssemblyReference.cache
+E:\MOC20483C\Module_2\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_2\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+E:\MOC20483C\Module_2\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+E:\MOC20483C\Module_2\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+E:\MOC20483C\Module_2\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache
+E:\MOC20483C\Module_2\Exceptions\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+E:\MOC20483C\Module_2\Exceptions\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\MOC20483C\Module_2\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_2\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CopyComplete

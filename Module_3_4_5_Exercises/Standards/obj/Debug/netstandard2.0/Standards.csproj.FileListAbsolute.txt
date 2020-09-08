@@ -1,0 +1,8 @@
+E:\MOC20483C\Module_3_4_5_Exercises\Standards\bin\Debug\netstandard2.0\Standards.deps.json
+E:\MOC20483C\Module_3_4_5_Exercises\Standards\bin\Debug\netstandard2.0\Standards.dll
+E:\MOC20483C\Module_3_4_5_Exercises\Standards\bin\Debug\netstandard2.0\Standards.pdb
+E:\MOC20483C\Module_3_4_5_Exercises\Standards\obj\Debug\netstandard2.0\Standards.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_3_4_5_Exercises\Standards\obj\Debug\netstandard2.0\Standards.AssemblyInfo.cs
+E:\MOC20483C\Module_3_4_5_Exercises\Standards\obj\Debug\netstandard2.0\Standards.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_3_4_5_Exercises\Standards\obj\Debug\netstandard2.0\Standards.dll
+E:\MOC20483C\Module_3_4_5_Exercises\Standards\obj\Debug\netstandard2.0\Standards.pdb

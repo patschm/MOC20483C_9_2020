@@ -1,0 +1,12 @@
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\bin\Debug\netstandard2.0\Philips.deps.json
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\bin\Debug\netstandard2.0\Philips.dll
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\bin\Debug\netstandard2.0\Philips.pdb
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\obj\Debug\netstandard2.0\Philips.csprojAssemblyReference.cache
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\obj\Debug\netstandard2.0\Philips.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\obj\Debug\netstandard2.0\Philips.AssemblyInfo.cs
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\obj\Debug\netstandard2.0\Philips.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\obj\Debug\netstandard2.0\Philips.dll
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\obj\Debug\netstandard2.0\Philips.pdb
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\bin\Debug\netstandard2.0\Standards.dll
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\bin\Debug\netstandard2.0\Standards.pdb
+E:\MOC20483C\Module_3_4_5_Exercises\Philips\obj\Debug\netstandard2.0\Philips.csproj.CopyComplete

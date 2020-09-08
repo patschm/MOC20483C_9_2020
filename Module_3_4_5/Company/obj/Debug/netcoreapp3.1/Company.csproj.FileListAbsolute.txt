@@ -1,0 +1,12 @@
+E:\MOC20483C\Module_3_4_5\Company\bin\Debug\netcoreapp3.1\Company.exe
+E:\MOC20483C\Module_3_4_5\Company\bin\Debug\netcoreapp3.1\Company.deps.json
+E:\MOC20483C\Module_3_4_5\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.json
+E:\MOC20483C\Module_3_4_5\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.dev.json
+E:\MOC20483C\Module_3_4_5\Company\bin\Debug\netcoreapp3.1\Company.dll
+E:\MOC20483C\Module_3_4_5\Company\bin\Debug\netcoreapp3.1\Company.pdb
+E:\MOC20483C\Module_3_4_5\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_3_4_5\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfo.cs
+E:\MOC20483C\Module_3_4_5\Company\obj\Debug\netcoreapp3.1\Company.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_3_4_5\Company\obj\Debug\netcoreapp3.1\Company.dll
+E:\MOC20483C\Module_3_4_5\Company\obj\Debug\netcoreapp3.1\Company.pdb
+E:\MOC20483C\Module_3_4_5\Company\obj\Debug\netcoreapp3.1\Company.genruntimeconfig.cache

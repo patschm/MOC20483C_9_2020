@@ -1,0 +1,13 @@
+E:\MOC20483C\Module_1\Flows\bin\Debug\netcoreapp3.1\Flows.exe
+E:\MOC20483C\Module_1\Flows\bin\Debug\netcoreapp3.1\Flows.deps.json
+E:\MOC20483C\Module_1\Flows\bin\Debug\netcoreapp3.1\Flows.runtimeconfig.json
+E:\MOC20483C\Module_1\Flows\bin\Debug\netcoreapp3.1\Flows.runtimeconfig.dev.json
+E:\MOC20483C\Module_1\Flows\bin\Debug\netcoreapp3.1\Flows.dll
+E:\MOC20483C\Module_1\Flows\bin\Debug\netcoreapp3.1\Flows.pdb
+E:\MOC20483C\Module_1\Flows\obj\Debug\netcoreapp3.1\Flows.csprojAssemblyReference.cache
+E:\MOC20483C\Module_1\Flows\obj\Debug\netcoreapp3.1\Flows.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_1\Flows\obj\Debug\netcoreapp3.1\Flows.AssemblyInfo.cs
+E:\MOC20483C\Module_1\Flows\obj\Debug\netcoreapp3.1\Flows.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_1\Flows\obj\Debug\netcoreapp3.1\Flows.dll
+E:\MOC20483C\Module_1\Flows\obj\Debug\netcoreapp3.1\Flows.pdb
+E:\MOC20483C\Module_1\Flows\obj\Debug\netcoreapp3.1\Flows.genruntimeconfig.cache

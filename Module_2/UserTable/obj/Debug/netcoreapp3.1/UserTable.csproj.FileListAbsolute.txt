@@ -1,0 +1,13 @@
+E:\MOC20483C\Module_2\UserTable\bin\Debug\netcoreapp3.1\UserTable.exe
+E:\MOC20483C\Module_2\UserTable\bin\Debug\netcoreapp3.1\UserTable.deps.json
+E:\MOC20483C\Module_2\UserTable\bin\Debug\netcoreapp3.1\UserTable.runtimeconfig.json
+E:\MOC20483C\Module_2\UserTable\bin\Debug\netcoreapp3.1\UserTable.runtimeconfig.dev.json
+E:\MOC20483C\Module_2\UserTable\bin\Debug\netcoreapp3.1\UserTable.dll
+E:\MOC20483C\Module_2\UserTable\bin\Debug\netcoreapp3.1\UserTable.pdb
+E:\MOC20483C\Module_2\UserTable\obj\Debug\netcoreapp3.1\UserTable.csprojAssemblyReference.cache
+E:\MOC20483C\Module_2\UserTable\obj\Debug\netcoreapp3.1\UserTable.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_2\UserTable\obj\Debug\netcoreapp3.1\UserTable.AssemblyInfo.cs
+E:\MOC20483C\Module_2\UserTable\obj\Debug\netcoreapp3.1\UserTable.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_2\UserTable\obj\Debug\netcoreapp3.1\UserTable.dll
+E:\MOC20483C\Module_2\UserTable\obj\Debug\netcoreapp3.1\UserTable.pdb
+E:\MOC20483C\Module_2\UserTable\obj\Debug\netcoreapp3.1\UserTable.genruntimeconfig.cache

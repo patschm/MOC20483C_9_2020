@@ -1,0 +1,13 @@
+E:\MOC20483C\Module_2\FuncsAndProcs\bin\Debug\netcoreapp3.1\FuncsAndProcs.exe
+E:\MOC20483C\Module_2\FuncsAndProcs\bin\Debug\netcoreapp3.1\FuncsAndProcs.deps.json
+E:\MOC20483C\Module_2\FuncsAndProcs\bin\Debug\netcoreapp3.1\FuncsAndProcs.runtimeconfig.json
+E:\MOC20483C\Module_2\FuncsAndProcs\bin\Debug\netcoreapp3.1\FuncsAndProcs.runtimeconfig.dev.json
+E:\MOC20483C\Module_2\FuncsAndProcs\bin\Debug\netcoreapp3.1\FuncsAndProcs.dll
+E:\MOC20483C\Module_2\FuncsAndProcs\bin\Debug\netcoreapp3.1\FuncsAndProcs.pdb
+E:\MOC20483C\Module_2\FuncsAndProcs\obj\Debug\netcoreapp3.1\FuncsAndProcs.csprojAssemblyReference.cache
+E:\MOC20483C\Module_2\FuncsAndProcs\obj\Debug\netcoreapp3.1\FuncsAndProcs.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_2\FuncsAndProcs\obj\Debug\netcoreapp3.1\FuncsAndProcs.AssemblyInfo.cs
+E:\MOC20483C\Module_2\FuncsAndProcs\obj\Debug\netcoreapp3.1\FuncsAndProcs.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_2\FuncsAndProcs\obj\Debug\netcoreapp3.1\FuncsAndProcs.dll
+E:\MOC20483C\Module_2\FuncsAndProcs\obj\Debug\netcoreapp3.1\FuncsAndProcs.pdb
+E:\MOC20483C\Module_2\FuncsAndProcs\obj\Debug\netcoreapp3.1\FuncsAndProcs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\MOC20483C\Module_1E\TafelsVan10\bin\Debug\netcoreapp3.1\TafelsVan10.exe
+E:\MOC20483C\Module_1E\TafelsVan10\bin\Debug\netcoreapp3.1\TafelsVan10.deps.json
+E:\MOC20483C\Module_1E\TafelsVan10\bin\Debug\netcoreapp3.1\TafelsVan10.runtimeconfig.json
+E:\MOC20483C\Module_1E\TafelsVan10\bin\Debug\netcoreapp3.1\TafelsVan10.runtimeconfig.dev.json
+E:\MOC20483C\Module_1E\TafelsVan10\bin\Debug\netcoreapp3.1\TafelsVan10.dll
+E:\MOC20483C\Module_1E\TafelsVan10\bin\Debug\netcoreapp3.1\TafelsVan10.pdb
+E:\MOC20483C\Module_1E\TafelsVan10\obj\Debug\netcoreapp3.1\TafelsVan10.csprojAssemblyReference.cache
+E:\MOC20483C\Module_1E\TafelsVan10\obj\Debug\netcoreapp3.1\TafelsVan10.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_1E\TafelsVan10\obj\Debug\netcoreapp3.1\TafelsVan10.AssemblyInfo.cs
+E:\MOC20483C\Module_1E\TafelsVan10\obj\Debug\netcoreapp3.1\TafelsVan10.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_1E\TafelsVan10\obj\Debug\netcoreapp3.1\TafelsVan10.dll
+E:\MOC20483C\Module_1E\TafelsVan10\obj\Debug\netcoreapp3.1\TafelsVan10.pdb
+E:\MOC20483C\Module_1E\TafelsVan10\obj\Debug\netcoreapp3.1\TafelsVan10.genruntimeconfig.cache

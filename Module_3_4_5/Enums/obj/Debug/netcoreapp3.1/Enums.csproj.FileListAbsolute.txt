@@ -1,0 +1,13 @@
+E:\MOC20483C\Module_3_4_5\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+E:\MOC20483C\Module_3_4_5\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+E:\MOC20483C\Module_3_4_5\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+E:\MOC20483C\Module_3_4_5\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+E:\MOC20483C\Module_3_4_5\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+E:\MOC20483C\Module_3_4_5\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+E:\MOC20483C\Module_3_4_5\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+E:\MOC20483C\Module_3_4_5\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_3_4_5\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+E:\MOC20483C\Module_3_4_5\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_3_4_5\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+E:\MOC20483C\Module_3_4_5\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+E:\MOC20483C\Module_3_4_5\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache

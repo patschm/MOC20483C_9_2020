@@ -1,0 +1,13 @@
+E:\MOC20483C\Module_3_4_5\Lightening\bin\Debug\netcoreapp3.1\Lightening.exe
+E:\MOC20483C\Module_3_4_5\Lightening\bin\Debug\netcoreapp3.1\Lightening.deps.json
+E:\MOC20483C\Module_3_4_5\Lightening\bin\Debug\netcoreapp3.1\Lightening.runtimeconfig.json
+E:\MOC20483C\Module_3_4_5\Lightening\bin\Debug\netcoreapp3.1\Lightening.runtimeconfig.dev.json
+E:\MOC20483C\Module_3_4_5\Lightening\bin\Debug\netcoreapp3.1\Lightening.dll
+E:\MOC20483C\Module_3_4_5\Lightening\bin\Debug\netcoreapp3.1\Lightening.pdb
+E:\MOC20483C\Module_3_4_5\Lightening\obj\Debug\netcoreapp3.1\Lightening.csprojAssemblyReference.cache
+E:\MOC20483C\Module_3_4_5\Lightening\obj\Debug\netcoreapp3.1\Lightening.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_3_4_5\Lightening\obj\Debug\netcoreapp3.1\Lightening.AssemblyInfo.cs
+E:\MOC20483C\Module_3_4_5\Lightening\obj\Debug\netcoreapp3.1\Lightening.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_3_4_5\Lightening\obj\Debug\netcoreapp3.1\Lightening.dll
+E:\MOC20483C\Module_3_4_5\Lightening\obj\Debug\netcoreapp3.1\Lightening.pdb
+E:\MOC20483C\Module_3_4_5\Lightening\obj\Debug\netcoreapp3.1\Lightening.genruntimeconfig.cache
