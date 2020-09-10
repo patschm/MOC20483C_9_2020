@@ -1,0 +1,7 @@
+E:\MOC20483C_9_2020\Module_11\GarbageMan2\bin\Debug\GarbageMan2.exe.config
+E:\MOC20483C_9_2020\Module_11\GarbageMan2\bin\Debug\GarbageMan2.exe
+E:\MOC20483C_9_2020\Module_11\GarbageMan2\bin\Debug\GarbageMan2.pdb
+E:\MOC20483C_9_2020\Module_11\GarbageMan2\obj\Debug\GarbageMan2.csprojAssemblyReference.cache
+E:\MOC20483C_9_2020\Module_11\GarbageMan2\obj\Debug\GarbageMan2.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_11\GarbageMan2\obj\Debug\GarbageMan2.exe
+E:\MOC20483C_9_2020\Module_11\GarbageMan2\obj\Debug\GarbageMan2.pdb

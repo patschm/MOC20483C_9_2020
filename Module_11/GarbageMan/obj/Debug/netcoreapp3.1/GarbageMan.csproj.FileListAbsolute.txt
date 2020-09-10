@@ -1,0 +1,13 @@
+E:\MOC20483C_9_2020\Module_11\GarbageMan\bin\Debug\netcoreapp3.1\GarbageMan.exe
+E:\MOC20483C_9_2020\Module_11\GarbageMan\bin\Debug\netcoreapp3.1\GarbageMan.deps.json
+E:\MOC20483C_9_2020\Module_11\GarbageMan\bin\Debug\netcoreapp3.1\GarbageMan.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_11\GarbageMan\bin\Debug\netcoreapp3.1\GarbageMan.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_11\GarbageMan\bin\Debug\netcoreapp3.1\GarbageMan.dll
+E:\MOC20483C_9_2020\Module_11\GarbageMan\bin\Debug\netcoreapp3.1\GarbageMan.pdb
+E:\MOC20483C_9_2020\Module_11\GarbageMan\obj\Debug\netcoreapp3.1\GarbageMan.csprojAssemblyReference.cache
+E:\MOC20483C_9_2020\Module_11\GarbageMan\obj\Debug\netcoreapp3.1\GarbageMan.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_11\GarbageMan\obj\Debug\netcoreapp3.1\GarbageMan.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_11\GarbageMan\obj\Debug\netcoreapp3.1\GarbageMan.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_11\GarbageMan\obj\Debug\netcoreapp3.1\GarbageMan.dll
+E:\MOC20483C_9_2020\Module_11\GarbageMan\obj\Debug\netcoreapp3.1\GarbageMan.pdb
+E:\MOC20483C_9_2020\Module_11\GarbageMan\obj\Debug\netcoreapp3.1\GarbageMan.genruntimeconfig.cache

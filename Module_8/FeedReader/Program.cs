@@ -56,9 +56,7 @@ namespace FeedReader
         private static void HandleWithXmlSerializer(Stream stream)
         {
             List<Item> news = new List<Item>();
-
             XmlSerializer ser = new XmlSerializer(typeof(Item));
-
             XmlReader rdr = XmlReader.Create(stream);
             while (rdr.ReadToFollowing("item"))
             {
