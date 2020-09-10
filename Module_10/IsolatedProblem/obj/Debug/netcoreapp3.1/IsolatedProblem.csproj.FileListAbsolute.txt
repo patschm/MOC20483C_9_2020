@@ -1,0 +1,13 @@
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\bin\Debug\netcoreapp3.1\IsolatedProblem.exe
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\bin\Debug\netcoreapp3.1\IsolatedProblem.deps.json
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\bin\Debug\netcoreapp3.1\IsolatedProblem.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\bin\Debug\netcoreapp3.1\IsolatedProblem.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\bin\Debug\netcoreapp3.1\IsolatedProblem.dll
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\bin\Debug\netcoreapp3.1\IsolatedProblem.pdb
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\obj\Debug\netcoreapp3.1\IsolatedProblem.csprojAssemblyReference.cache
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\obj\Debug\netcoreapp3.1\IsolatedProblem.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\obj\Debug\netcoreapp3.1\IsolatedProblem.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\obj\Debug\netcoreapp3.1\IsolatedProblem.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\obj\Debug\netcoreapp3.1\IsolatedProblem.dll
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\obj\Debug\netcoreapp3.1\IsolatedProblem.pdb
+E:\MOC20483C_9_2020\Module_10\IsolatedProblem\obj\Debug\netcoreapp3.1\IsolatedProblem.genruntimeconfig.cache

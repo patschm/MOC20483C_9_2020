@@ -1,0 +1,10 @@
+E:\MOC20483C_9_2020\Module_10\Calculator\bin\Debug\Calculator.exe.config
+E:\MOC20483C_9_2020\Module_10\Calculator\bin\Debug\Calculator.exe
+E:\MOC20483C_9_2020\Module_10\Calculator\bin\Debug\Calculator.pdb
+E:\MOC20483C_9_2020\Module_10\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\MOC20483C_9_2020\Module_10\Calculator\obj\Debug\Calculator.Form1.resources
+E:\MOC20483C_9_2020\Module_10\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\MOC20483C_9_2020\Module_10\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\MOC20483C_9_2020\Module_10\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_10\Calculator\obj\Debug\Calculator.exe
+E:\MOC20483C_9_2020\Module_10\Calculator\obj\Debug\Calculator.pdb

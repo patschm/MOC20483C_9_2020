@@ -1,0 +1,13 @@
+E:\MOC20483C\Module_6\Streaming\bin\Debug\netcoreapp3.1\Streaming.exe
+E:\MOC20483C\Module_6\Streaming\bin\Debug\netcoreapp3.1\Streaming.deps.json
+E:\MOC20483C\Module_6\Streaming\bin\Debug\netcoreapp3.1\Streaming.runtimeconfig.json
+E:\MOC20483C\Module_6\Streaming\bin\Debug\netcoreapp3.1\Streaming.runtimeconfig.dev.json
+E:\MOC20483C\Module_6\Streaming\bin\Debug\netcoreapp3.1\Streaming.dll
+E:\MOC20483C\Module_6\Streaming\bin\Debug\netcoreapp3.1\Streaming.pdb
+E:\MOC20483C\Module_6\Streaming\obj\Debug\netcoreapp3.1\Streaming.csprojAssemblyReference.cache
+E:\MOC20483C\Module_6\Streaming\obj\Debug\netcoreapp3.1\Streaming.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_6\Streaming\obj\Debug\netcoreapp3.1\Streaming.AssemblyInfo.cs
+E:\MOC20483C\Module_6\Streaming\obj\Debug\netcoreapp3.1\Streaming.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_6\Streaming\obj\Debug\netcoreapp3.1\Streaming.dll
+E:\MOC20483C\Module_6\Streaming\obj\Debug\netcoreapp3.1\Streaming.pdb
+E:\MOC20483C\Module_6\Streaming\obj\Debug\netcoreapp3.1\Streaming.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+E:\MOC20483C\Module_6\SerializeEx\bin\Debug\netcoreapp3.1\SerializeEx.exe
+E:\MOC20483C\Module_6\SerializeEx\obj\Debug\netcoreapp3.1\SerializeEx.csprojAssemblyReference.cache
+E:\MOC20483C\Module_6\SerializeEx\obj\Debug\netcoreapp3.1\SerializeEx.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_6\SerializeEx\obj\Debug\netcoreapp3.1\SerializeEx.AssemblyInfo.cs
+E:\MOC20483C\Module_6\SerializeEx\bin\Debug\netcoreapp3.1\FizzWare.NBuilder.dll
+E:\MOC20483C\Module_6\SerializeEx\obj\Debug\netcoreapp3.1\SerializeEx.csproj.CopyComplete
+E:\MOC20483C\Module_6\SerializeEx\bin\Debug\netcoreapp3.1\SerializeEx.deps.json
+E:\MOC20483C\Module_6\SerializeEx\bin\Debug\netcoreapp3.1\SerializeEx.runtimeconfig.json
+E:\MOC20483C\Module_6\SerializeEx\bin\Debug\netcoreapp3.1\SerializeEx.runtimeconfig.dev.json
+E:\MOC20483C\Module_6\SerializeEx\bin\Debug\netcoreapp3.1\SerializeEx.dll
+E:\MOC20483C\Module_6\SerializeEx\bin\Debug\netcoreapp3.1\SerializeEx.pdb
+E:\MOC20483C\Module_6\SerializeEx\bin\Debug\netcoreapp3.1\Faker.Net.Core.3.1.dll
+E:\MOC20483C\Module_6\SerializeEx\bin\Debug\netcoreapp3.1\de-DE\Faker.Net.Core.3.1.resources.dll
+E:\MOC20483C\Module_6\SerializeEx\obj\Debug\netcoreapp3.1\SerializeEx.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_6\SerializeEx\obj\Debug\netcoreapp3.1\SerializeEx.dll
+E:\MOC20483C\Module_6\SerializeEx\obj\Debug\netcoreapp3.1\SerializeEx.pdb
+E:\MOC20483C\Module_6\SerializeEx\obj\Debug\netcoreapp3.1\SerializeEx.genruntimeconfig.cache

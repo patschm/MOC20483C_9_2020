@@ -1,0 +1,6 @@
+E:\MOC20483C_9_2020\Module_10\IsolatedProb\bin\Debug\IsolatedProb.exe.config
+E:\MOC20483C_9_2020\Module_10\IsolatedProb\bin\Debug\IsolatedProb.exe
+E:\MOC20483C_9_2020\Module_10\IsolatedProb\bin\Debug\IsolatedProb.pdb
+E:\MOC20483C_9_2020\Module_10\IsolatedProb\obj\Debug\IsolatedProb.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_10\IsolatedProb\obj\Debug\IsolatedProb.exe
+E:\MOC20483C_9_2020\Module_10\IsolatedProb\obj\Debug\IsolatedProb.pdb

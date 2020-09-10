@@ -1,0 +1,15 @@
+E:\MOC20483C\Module_6\Serializers\bin\Debug\netcoreapp3.1\Serializers.exe
+E:\MOC20483C\Module_6\Serializers\bin\Debug\netcoreapp3.1\Serializers.deps.json
+E:\MOC20483C\Module_6\Serializers\bin\Debug\netcoreapp3.1\Serializers.runtimeconfig.json
+E:\MOC20483C\Module_6\Serializers\bin\Debug\netcoreapp3.1\Serializers.runtimeconfig.dev.json
+E:\MOC20483C\Module_6\Serializers\bin\Debug\netcoreapp3.1\Serializers.dll
+E:\MOC20483C\Module_6\Serializers\bin\Debug\netcoreapp3.1\Serializers.pdb
+E:\MOC20483C\Module_6\Serializers\obj\Debug\netcoreapp3.1\Serializers.csprojAssemblyReference.cache
+E:\MOC20483C\Module_6\Serializers\obj\Debug\netcoreapp3.1\Serializers.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_6\Serializers\obj\Debug\netcoreapp3.1\Serializers.AssemblyInfo.cs
+E:\MOC20483C\Module_6\Serializers\obj\Debug\netcoreapp3.1\Serializers.dll
+E:\MOC20483C\Module_6\Serializers\obj\Debug\netcoreapp3.1\Serializers.pdb
+E:\MOC20483C\Module_6\Serializers\obj\Debug\netcoreapp3.1\Serializers.genruntimeconfig.cache
+E:\MOC20483C\Module_6\Serializers\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MOC20483C\Module_6\Serializers\obj\Debug\netcoreapp3.1\Serializers.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_6\Serializers\obj\Debug\netcoreapp3.1\Serializers.csproj.CopyComplete

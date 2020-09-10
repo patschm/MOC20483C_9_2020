@@ -1,0 +1,13 @@
+E:\MOC20483C\Module_6\DriveReader\bin\Debug\netcoreapp3.1\DriveReader.exe
+E:\MOC20483C\Module_6\DriveReader\bin\Debug\netcoreapp3.1\DriveReader.deps.json
+E:\MOC20483C\Module_6\DriveReader\bin\Debug\netcoreapp3.1\DriveReader.runtimeconfig.json
+E:\MOC20483C\Module_6\DriveReader\bin\Debug\netcoreapp3.1\DriveReader.runtimeconfig.dev.json
+E:\MOC20483C\Module_6\DriveReader\bin\Debug\netcoreapp3.1\DriveReader.dll
+E:\MOC20483C\Module_6\DriveReader\bin\Debug\netcoreapp3.1\DriveReader.pdb
+E:\MOC20483C\Module_6\DriveReader\obj\Debug\netcoreapp3.1\DriveReader.csprojAssemblyReference.cache
+E:\MOC20483C\Module_6\DriveReader\obj\Debug\netcoreapp3.1\DriveReader.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_6\DriveReader\obj\Debug\netcoreapp3.1\DriveReader.AssemblyInfo.cs
+E:\MOC20483C\Module_6\DriveReader\obj\Debug\netcoreapp3.1\DriveReader.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_6\DriveReader\obj\Debug\netcoreapp3.1\DriveReader.dll
+E:\MOC20483C\Module_6\DriveReader\obj\Debug\netcoreapp3.1\DriveReader.pdb
+E:\MOC20483C\Module_6\DriveReader\obj\Debug\netcoreapp3.1\DriveReader.genruntimeconfig.cache

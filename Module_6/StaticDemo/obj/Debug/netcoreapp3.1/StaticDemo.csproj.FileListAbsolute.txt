@@ -1,0 +1,13 @@
+E:\MOC20483C\Module_6\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.exe
+E:\MOC20483C\Module_6\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.deps.json
+E:\MOC20483C\Module_6\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.runtimeconfig.json
+E:\MOC20483C\Module_6\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.runtimeconfig.dev.json
+E:\MOC20483C\Module_6\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.dll
+E:\MOC20483C\Module_6\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.pdb
+E:\MOC20483C\Module_6\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.csprojAssemblyReference.cache
+E:\MOC20483C\Module_6\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.AssemblyInfoInputs.cache
+E:\MOC20483C\Module_6\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.AssemblyInfo.cs
+E:\MOC20483C\Module_6\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.csproj.CoreCompileInputs.cache
+E:\MOC20483C\Module_6\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.dll
+E:\MOC20483C\Module_6\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.pdb
+E:\MOC20483C\Module_6\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.genruntimeconfig.cache
