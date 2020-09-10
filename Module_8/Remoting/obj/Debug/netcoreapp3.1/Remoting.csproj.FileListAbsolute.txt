@@ -1,0 +1,13 @@
+E:\MOC20483C_9_2020\Module_8\Remoting\bin\Debug\netcoreapp3.1\Remoting.exe
+E:\MOC20483C_9_2020\Module_8\Remoting\bin\Debug\netcoreapp3.1\Remoting.deps.json
+E:\MOC20483C_9_2020\Module_8\Remoting\bin\Debug\netcoreapp3.1\Remoting.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_8\Remoting\bin\Debug\netcoreapp3.1\Remoting.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_8\Remoting\bin\Debug\netcoreapp3.1\Remoting.dll
+E:\MOC20483C_9_2020\Module_8\Remoting\bin\Debug\netcoreapp3.1\Remoting.pdb
+E:\MOC20483C_9_2020\Module_8\Remoting\obj\Debug\netcoreapp3.1\Remoting.csprojAssemblyReference.cache
+E:\MOC20483C_9_2020\Module_8\Remoting\obj\Debug\netcoreapp3.1\Remoting.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_8\Remoting\obj\Debug\netcoreapp3.1\Remoting.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_8\Remoting\obj\Debug\netcoreapp3.1\Remoting.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_8\Remoting\obj\Debug\netcoreapp3.1\Remoting.dll
+E:\MOC20483C_9_2020\Module_8\Remoting\obj\Debug\netcoreapp3.1\Remoting.pdb
+E:\MOC20483C_9_2020\Module_8\Remoting\obj\Debug\netcoreapp3.1\Remoting.genruntimeconfig.cache

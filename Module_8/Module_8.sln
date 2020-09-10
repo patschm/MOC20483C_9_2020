@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remoting", "Remoting\Remoting.csproj", "{FAF95A8B-7658-4A6C-8CA3-EC6A0993EF42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedReader", "FeedReader\FeedReader.csproj", "{13805FCC-9C7B-4C90-ACC8-61F443D5C57C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF95A8B-7658-4A6C-8CA3-EC6A0993EF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF95A8B-7658-4A6C-8CA3-EC6A0993EF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF95A8B-7658-4A6C-8CA3-EC6A0993EF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF95A8B-7658-4A6C-8CA3-EC6A0993EF42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13805FCC-9C7B-4C90-ACC8-61F443D5C57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13805FCC-9C7B-4C90-ACC8-61F443D5C57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13805FCC-9C7B-4C90-ACC8-61F443D5C57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13805FCC-9C7B-4C90-ACC8-61F443D5C57C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCEF6907-6962-4B4D-8375-106376880C91}
+	EndGlobalSection
+EndGlobal

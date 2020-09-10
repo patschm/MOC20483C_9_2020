@@ -1,0 +1,13 @@
+E:\MOC20483C_9_2020\Module_8\FeedReader\bin\Debug\netcoreapp3.1\FeedReader.exe
+E:\MOC20483C_9_2020\Module_8\FeedReader\bin\Debug\netcoreapp3.1\FeedReader.deps.json
+E:\MOC20483C_9_2020\Module_8\FeedReader\bin\Debug\netcoreapp3.1\FeedReader.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_8\FeedReader\bin\Debug\netcoreapp3.1\FeedReader.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_8\FeedReader\bin\Debug\netcoreapp3.1\FeedReader.dll
+E:\MOC20483C_9_2020\Module_8\FeedReader\bin\Debug\netcoreapp3.1\FeedReader.pdb
+E:\MOC20483C_9_2020\Module_8\FeedReader\obj\Debug\netcoreapp3.1\FeedReader.csprojAssemblyReference.cache
+E:\MOC20483C_9_2020\Module_8\FeedReader\obj\Debug\netcoreapp3.1\FeedReader.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_8\FeedReader\obj\Debug\netcoreapp3.1\FeedReader.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_8\FeedReader\obj\Debug\netcoreapp3.1\FeedReader.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_8\FeedReader\obj\Debug\netcoreapp3.1\FeedReader.dll
+E:\MOC20483C_9_2020\Module_8\FeedReader\obj\Debug\netcoreapp3.1\FeedReader.pdb
+E:\MOC20483C_9_2020\Module_8\FeedReader\obj\Debug\netcoreapp3.1\FeedReader.genruntimeconfig.cache
