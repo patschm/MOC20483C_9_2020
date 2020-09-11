@@ -1,0 +1,13 @@
+E:\MOC20483C_9_2020\Module_13\Integrity\bin\Debug\netcoreapp3.1\Integrity.exe
+E:\MOC20483C_9_2020\Module_13\Integrity\bin\Debug\netcoreapp3.1\Integrity.deps.json
+E:\MOC20483C_9_2020\Module_13\Integrity\bin\Debug\netcoreapp3.1\Integrity.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_13\Integrity\bin\Debug\netcoreapp3.1\Integrity.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_13\Integrity\bin\Debug\netcoreapp3.1\Integrity.dll
+E:\MOC20483C_9_2020\Module_13\Integrity\bin\Debug\netcoreapp3.1\Integrity.pdb
+E:\MOC20483C_9_2020\Module_13\Integrity\obj\Debug\netcoreapp3.1\Integrity.csprojAssemblyReference.cache
+E:\MOC20483C_9_2020\Module_13\Integrity\obj\Debug\netcoreapp3.1\Integrity.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_13\Integrity\obj\Debug\netcoreapp3.1\Integrity.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_13\Integrity\obj\Debug\netcoreapp3.1\Integrity.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_13\Integrity\obj\Debug\netcoreapp3.1\Integrity.dll
+E:\MOC20483C_9_2020\Module_13\Integrity\obj\Debug\netcoreapp3.1\Integrity.pdb
+E:\MOC20483C_9_2020\Module_13\Integrity\obj\Debug\netcoreapp3.1\Integrity.genruntimeconfig.cache

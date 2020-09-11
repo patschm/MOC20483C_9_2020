@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrity", "Integrity\Integrity.csproj", "{410C4758-FD69-4E51-98CD-793688AF3BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Confidentiality", "Confidentiality\Confidentiality.csproj", "{40B08CBC-F835-45EA-A609-C440BAE47DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410C4758-FD69-4E51-98CD-793688AF3BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410C4758-FD69-4E51-98CD-793688AF3BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410C4758-FD69-4E51-98CD-793688AF3BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410C4758-FD69-4E51-98CD-793688AF3BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B08CBC-F835-45EA-A609-C440BAE47DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B08CBC-F835-45EA-A609-C440BAE47DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B08CBC-F835-45EA-A609-C440BAE47DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B08CBC-F835-45EA-A609-C440BAE47DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4227D6E-63CB-4159-A773-51A542759F7E}
+	EndGlobalSection
+EndGlobal
