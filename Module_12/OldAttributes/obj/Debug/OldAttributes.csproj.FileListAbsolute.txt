@@ -1,0 +1,7 @@
+E:\MOC20483C_9_2020\Module_12\OldAttributes\obj\Debug\OldAttributes.csprojAssemblyReference.cache
+E:\MOC20483C_9_2020\Module_12\OldAttributes\obj\Debug\OldAttributes.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_12\OldAttributes\bin\Debug\OldAttributes.exe.config
+E:\MOC20483C_9_2020\Module_12\OldAttributes\bin\Debug\OldAttributes.exe
+E:\MOC20483C_9_2020\Module_12\OldAttributes\bin\Debug\OldAttributes.pdb
+E:\MOC20483C_9_2020\Module_12\OldAttributes\obj\Debug\OldAttributes.exe
+E:\MOC20483C_9_2020\Module_12\OldAttributes\obj\Debug\OldAttributes.pdb

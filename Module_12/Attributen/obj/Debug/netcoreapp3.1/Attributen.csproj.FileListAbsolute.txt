@@ -1,0 +1,12 @@
+E:\MOC20483C_9_2020\Module_12\Attributen\bin\Debug\netcoreapp3.1\Attributen.exe
+E:\MOC20483C_9_2020\Module_12\Attributen\bin\Debug\netcoreapp3.1\Attributen.deps.json
+E:\MOC20483C_9_2020\Module_12\Attributen\bin\Debug\netcoreapp3.1\Attributen.runtimeconfig.json
+E:\MOC20483C_9_2020\Module_12\Attributen\bin\Debug\netcoreapp3.1\Attributen.runtimeconfig.dev.json
+E:\MOC20483C_9_2020\Module_12\Attributen\bin\Debug\netcoreapp3.1\Attributen.dll
+E:\MOC20483C_9_2020\Module_12\Attributen\bin\Debug\netcoreapp3.1\Attributen.pdb
+E:\MOC20483C_9_2020\Module_12\Attributen\obj\Debug\netcoreapp3.1\Attributen.AssemblyInfoInputs.cache
+E:\MOC20483C_9_2020\Module_12\Attributen\obj\Debug\netcoreapp3.1\Attributen.AssemblyInfo.cs
+E:\MOC20483C_9_2020\Module_12\Attributen\obj\Debug\netcoreapp3.1\Attributen.csproj.CoreCompileInputs.cache
+E:\MOC20483C_9_2020\Module_12\Attributen\obj\Debug\netcoreapp3.1\Attributen.dll
+E:\MOC20483C_9_2020\Module_12\Attributen\obj\Debug\netcoreapp3.1\Attributen.pdb
+E:\MOC20483C_9_2020\Module_12\Attributen\obj\Debug\netcoreapp3.1\Attributen.genruntimeconfig.cache
